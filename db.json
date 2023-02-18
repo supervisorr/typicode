@@ -25,7 +25,7 @@
             "deleted_at": null
         },
         {
-            "id": 3,
+            "id": 4,
             "title": "Title Post 2.1",
             "content": "Content Post 2.1",
             "user_id": 2,
@@ -33,7 +33,7 @@
             "deleted_at": null
         },
         {
-            "id": 3,
+            "id": 5,
             "title": "Title Post 2.2",
             "content": "Content Post 2.2",
             "user_id": 2,
@@ -41,7 +41,7 @@
             "deleted_at": null
         },
         {
-            "id": 3,
+            "id": 6,
             "title": "Title Post 3.1",
             "content": "Content Post 3.1",
             "user_id": 3,
