@@ -1,14 +1,87 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "posts":[
+      {
+         "id":1,
+         "title":"Post 1.1",
+         "userId":1
+      },
+      {
+         "id":2,
+         "title":"Post 1.2",
+         "userId":1
+      },
+      {
+         "id":3,
+         "title":"Post 1.3",
+         "userId":1
+      },
+      {
+         "id":3,
+         "title":"Post 2.1",
+         "userId":2
+      },
+      {
+         "id":3,
+         "title":"Post 2.2",
+         "userId":2
+      },
+      {
+         "id":3,
+         "title":"Post 3.1",
+         "userId":3
+      }
+   ],
+   "users":[
+      {
+         "id":4,
+         "name":"Delaney Bayer",
+         "email":"prudence.marks@example.net",
+         "owner":false,
+         "photo":null,
+         "deleted_at":null
+      },
+      {
+         "id":1,
+         "name":"John Doe",
+         "email":"johndoe@example.com",
+         "owner":true,
+         "photo":null,
+         "deleted_at":null
+      },
+      {
+         "id":6,
+         "name":"Kristian Greenholt",
+         "email":"murray.brown@example.org",
+         "owner":false,
+         "photo":null,
+         "deleted_at":null
+      },
+      {
+         "id":2,
+         "name":"Marcelino Huel",
+         "email":"murphy.jasper@example.com",
+         "owner":false,
+         "photo":null,
+         "deleted_at":null
+      },
+      {
+         "id":5,
+         "name":"Myrtis Kemmer",
+         "email":"monahan.alfreda@example.com",
+         "owner":false,
+         "photo":null,
+         "deleted_at":null
+      },
+      {
+         "id":3,
+         "name":"Napoleon Kuhic",
+         "email":"keeling.derick@example.net",
+         "owner":false,
+         "photo":null,
+         "deleted_at":null
+      }
+   ],
+   "profile":{
+      "name":"typicode"
+   }
 }
